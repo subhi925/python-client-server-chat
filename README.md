@@ -43,7 +43,9 @@ This project helped me gain hands-on experience with:
 
 ## Screenshot
 
-![Application Screenshot](screenshots/chat-demo.png)
+<img width="1626" height="996" alt="Screenshot 2026-06-19 101100" src="https://github.com/user-attachments/assets/d8f3d1f9-0090-4898-9077-e1ae5b2969ef" />
+<img width="1607" height="647" alt="Screenshot 2026-06-19 101210" src="https://github.com/user-attachments/assets/50c575da-4237-4f1d-ad72-bbeea1811942" />
+
 
 ## Run
 
